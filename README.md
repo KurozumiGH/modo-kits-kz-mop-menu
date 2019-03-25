@@ -26,7 +26,7 @@ MODOのSystem>Form Editorを開くと``Kz_MOP_Menu``が追加されているの�
 ### Outline
 The Kz-MOP-Menu provides a menu to access the features of MOP Booleans Panel Cutters.
 
-### 動作環境
+### Requires
 - MODO 11, 12
 - MOP Booleans Panel Cutters
 
